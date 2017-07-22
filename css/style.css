@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#feedback {
+  color: white;
+  margin: 1em;
+  text-shadow:
+  -1px -1px 0 #000,
+  1px -1px 0 #000,
+  -1px 1px 0 #000,
+  1px 1px 0 #000;
+}
+/* Use full-page wrapper in case you don't want to modify the body directly */
+/*.wrapper {
+  position: fixed;
+    min-height: 100%;
+    min-width: 100%;
+  background-color: blue;
+}*/
